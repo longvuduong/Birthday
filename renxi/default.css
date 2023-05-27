@@ -18,20 +18,19 @@ a {color:#000;font-size:14px;}
     height: 240px;
    
     box-shadow: 0 0 30px #eee;
-    position: absolute;
-    margin-top: 3rem;
-    left: calc(50% - 100px);
+    position: fixed;
+    top: 3rem;
+    right: 8rem;
   
     border-radius: 120px;
     border: 5px solid rgb(245, 200, 197);
 }
 .page__main {
-    background-image: url(https://i.pinimg.com/564x/04/7e/32/047e3285e65488867ced0c0a01ac3236.jpg);
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images5/Happy-Birthday-wallpaper-2.jpg) ;
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-position-y: -18rem;
 }
 .buttons {
     display: flex;
